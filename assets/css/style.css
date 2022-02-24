@@ -34,7 +34,7 @@ header nav {
   margin: 7px 0;
 }
 
-header mav ul {
+header nav ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -45,7 +45,7 @@ header mav ul {
 header nav ul li a {
   margin: 0 30px;
   font-weight: lighter;
-  font-size: 22px;
+  font-size: 1.55vw;
 }
 
 footer {
